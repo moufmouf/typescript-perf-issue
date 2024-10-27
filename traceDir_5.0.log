@@ -1,0 +1,8 @@
+Hot Spots
+└─ Check file /home/dan/projects/typescript-perf/src/messages.ts (6361ms)
+   ├─ Check deferred node from (line 6121, char 3) to (line 6422, char 4) (1709ms)
+   ├─ Check deferred node from (line 14884, char 3) to (line 15149, char 4) (1158ms)
+   ├─ Check deferred node from (line 10481, char 3) to (line 10714, char 4) (867ms)
+   └─ Check deferred node from (line 16828, char 3) to (line 17023, char 4) (531ms)
+
+No duplicate packages found

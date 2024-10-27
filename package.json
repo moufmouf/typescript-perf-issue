@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "testperf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@typescript/analyze-trace": "^0.10.1",
+    "google-protobuf": "^3.21.0",
+    "protobuf-fieldmask": "^2.0.0",
+    "protobufjs": "^7.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
